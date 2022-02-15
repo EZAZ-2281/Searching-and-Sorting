@@ -17,7 +17,7 @@ void binarySearch(int a[], int n, int lowIndex, int highIndex, int value)
     else
         printf("Value is found at index: %d\n", midIndex);
 }
-int main()
+int main() 
 {
     int n, i;
     printf("Enter the size of the array? ");
