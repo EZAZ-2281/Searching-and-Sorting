@@ -70,3 +70,7 @@ Average = O(nlogn) and
 Worse case = O(n^2)
 Space complexity: O(logn)
 */
+
+
+![Photo](https://user-images.githubusercontent.com/81481142/154228443-75f56d67-bf1c-4837-a331-6d50052a7edb.PNG)
+
